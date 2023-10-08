@@ -1,0 +1,7 @@
+"启动链式任务": "Starting chained tasks"
+"@router.post("/", summary="Webhook消息响应", response_model=schemas.Response)": "@router.post("/", summary="Webhook Message response", response_model=schemas.Response)"
+"Webhook响应": "Webhook Responsive"
+"return schemas.Response(success=False, message="token认证不通过")": "return schemas.Response(success=False, message="token Failed certification")"
+"@router.get("/", summary="Webhook消息响应", response_model=schemas.Response)": "@router.get("/", summary="Webhook Message response", response_model=schemas.Response)"
+"Webhook响应": "Webhook Responsive"
+"return schemas.Response(success=False, message="token认证不通过")": "return schemas.Response(success=False, message="token Failed certification")"

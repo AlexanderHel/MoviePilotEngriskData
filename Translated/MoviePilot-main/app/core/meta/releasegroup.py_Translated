@@ -1,0 +1,8 @@
+"识别制作组、字幕组": "Identify the production team、 Subtitling team"
+"# 内置组": "#  Built-in group"
+""anime": ['ANi', 'HYSUB', 'KTXP', 'LoliHouse', 'MCE', 'Nekomoe kissaten', '(?:Lilith|NC)-Raws', '织梦字幕组']": ""anime": ['ANi', 'HYSUB', 'KTXP', 'LoliHouse', 'MCE', 'Nekomoe kissaten', '(?:Lilith|NC)-Raws', ' Weaving dreams subtitle group']"
+":param title: 资源标题或文件名": ":param title:  Resource title or file name"
+":param groups: 制作组/字幕组": ":param groups:  Production team/ Subtitling team"
+":return: 匹配结果": ":return:  Matching results"
+"# 自定义组": "#  Custom groups"
+"# 处理一个制作组识别多次的情况，保留顺序": "#  Dealing with a production group identifying multiple times， Order of reservations"
