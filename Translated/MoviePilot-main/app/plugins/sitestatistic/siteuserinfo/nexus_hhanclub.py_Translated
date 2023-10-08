@@ -1,0 +1,6 @@
+"# 上传、下载、分享率": "#  Upload、 Downloading、 Sharing rate"
+"ratio_match = re.search(r"分享率][:：_<>/a-zA-Z-=\"'\s#;]+([\d,.\s]+)",": "ratio_match = re.search(r" Sharing rate][:：_<>/a-zA-Z-=\"'\s#;]+([\d,.\s]+)","
+"# 计算分享率": "#  Calculation of sharing rate"
+"# 优先使用页面上的分享率": "#  Prioritize the use of on-page shares"
+"解析用户额外信息，加入时间，等级": "Parsing additional user information， Joining time， Hierarchy"
+"# 加入时间": "#  Joining time"
