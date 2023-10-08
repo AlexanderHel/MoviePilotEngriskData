@@ -1,0 +1,5 @@
+"返回函数的参数个数": "Returns the number of arguments to the function"
+"检查函数是否已实现": "Check if the function has been implemented"
+"检查输出与函数的参数类型是否一致": "Check that the output matches the type of the function's arguments"
+"# 获取函数的参数信息": "#  Getting information about a function's arguments"
+"# 检查输入参数个数和类型是否一致": "#  Check the number and type of input parameters for consistency"

@@ -1,0 +1,6 @@
+"判断站点是否已经登陆": "Determine if the site is logged in"
+"# 存在明显的密码输入框，说明未登录": "#  Presence of an obvious password entry box， Indicates not logged in"
+"# 是否存在登出和用户面板等链接": "#  Presence of links to logout, user panel, etc."
+"判断站点是否已经签到": "Determine if a site is signed in"
+":return True已签到 False未签到": ":return True has checked in False has not checked in"
+"# 站点签到支持的识别XPATH": "#  Recognition of site check-in support XPATH"
