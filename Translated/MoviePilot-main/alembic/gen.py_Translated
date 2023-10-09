@@ -1,2 +1,0 @@
-"# 导入模块，避免建表缺失": "#  Import module， Avoid building missing tables"
-"db_version = input("请输入版本号：")": "db_version = input(" Please enter the version number：")"
