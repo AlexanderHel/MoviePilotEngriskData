@@ -1,5 +1,0 @@
-"根据图片地址，获取验证码图片，并识别内容": "According to the image address， Get captcha image， And identify the content"
-":param image_url: 图片地址": ":param image_url:  Image address"
-":param image_b64: 图片base64，跳过图片地址下载": ":param image_b64:  Photographbase64， Skip image address to download"
-":param cookie: 下载图片使用的cookie": ":param cookie:  Download images used bycookie"
-":param ua: 下载图片使用的ua": ":param ua:  Download images used byua"

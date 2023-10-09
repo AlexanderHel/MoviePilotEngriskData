@@ -1,8 +1,0 @@
-":params eformat: 格式化字符串": ":params eformat:  Formatting strings"
-":params details: 格式化详情": ":params details:  Formatting details"
-":params part: 分集": ":params part:  Subset"
-":params offset: 偏移量": ":params offset:  Offset"
-":prams key: EP关键字": ":prams key: EP Keywords."
-"拆分集数，返回开始集数，结束集数，Part信息": "No. of split episodes， Returns the number of starting episodes， Number of ending episodes，Part Text"
-"# 指定的具体集数，直接返回": "#  Specific episodes assigned， Direct return"
-"处理单集，返回单集的开始和结束集数": "Process a single set， Returns the number of beginning and ending episodes of a single episode"

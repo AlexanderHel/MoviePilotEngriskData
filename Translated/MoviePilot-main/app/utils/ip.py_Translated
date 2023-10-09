@@ -1,8 +1,0 @@
-"判断是不是ipv4": "Determine whether it is ipv4"
-"判断是不是ipv6": "Determine whether it is ipv6"
-"判断一个host是内网还是外网": "Determine whether a host is an internal network or an external network"
-"判断是不是ip": "Determine whether it is an IP"
-"判断域名是否为内部域名": "Determine if a domain name is internal"
-"# 获取域名对应的 IP 地址": "# Get the IP address corresponding to the domain name"
-"# 判断 IP 地址是否属于内网 IP 地址范围": "# Determine whether the IP address belongs to the intranet IP address range"
-"判断是不是内网ip": "Determine whether it is an intranet IP"

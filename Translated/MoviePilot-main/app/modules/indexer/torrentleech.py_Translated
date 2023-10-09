@@ -1,3 +1,0 @@
-"# 不支持中文": "#  No chinese support"
-"logger.warn(f"{self._indexer.get('name')} 搜索失败，错误码：{res.status_code}")": "logger.warn(f"{self._indexer.get('name')}  Search failure， Error code：{res.status_code}")"
-"logger.warn(f"{self._indexer.get('name')} 搜索失败，无法连接 {self._indexer.get('domain')}")": "logger.warn(f"{self._indexer.get('name')}  Search failure， Connectionless {self._indexer.get('domain')}")"

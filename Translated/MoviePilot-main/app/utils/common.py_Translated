@@ -1,6 +1,0 @@
-":param ExceptionToCheck: 需要捕获的异常": ":param ExceptionToCheck:  Exceptions to be caught"
-":param tries: 重试次数": ":param tries:  Retries"
-":param delay: 延迟时间": ":param delay:  Delay"
-":param backoff: 延迟倍数": ":param backoff:  Delay multiplier"
-":param logger: 日志对象": ":param logger:  Log object"
-"msg = f"{str(e)}, {mdelay} 秒后重试 ..."": "msg = f"{str(e)}, {mdelay}  Retry after seconds ...""

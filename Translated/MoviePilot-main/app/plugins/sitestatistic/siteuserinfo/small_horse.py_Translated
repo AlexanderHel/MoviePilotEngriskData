@@ -1,5 +1,0 @@
-"上传/下载/分享率 [做种数/魔力值]": "Upload/ Downloading/ Sharing rate [ Determinant (math.)/ Magic power level]"
-"做种相关信息": "Seeding information"
-":param multi_page: 是否多页数据": ":param multi_page:  Whether multiple pages of data"
-":return: 下页地址": ":return:  Next page address"
-"# 是否存在下页数据": "#  Existence of next page data"

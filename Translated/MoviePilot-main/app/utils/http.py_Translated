@@ -1,4 +1,0 @@
-"解析cookie，转化为字典或者数组": "Parse cookies and convert them into a dictionary or array"
-":param cookies_str: cookie字符串": ":param cookies_str: cookie string"
-":param array: 是否转化为数组": ":param array:  Whether to convert to an array"
-":return: 字典或者数组": ":return:  Dictionary or array"

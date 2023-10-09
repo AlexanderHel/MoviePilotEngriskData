@@ -1,6 +1,0 @@
-"初始化数据库": "Initializing the database"
-"# 导入模块，避免建表缺失": "#  Import module， Avoid building missing tables"
-"# 全量建表": "#  Full table construction"
-"# 初始化超级管理员": "#  Initialize super administrator"
-"更新数据库": "Updating the database"
-"logger.error(f'数据库更新失败：{e}')": "logger.error(f' Database update failure：{e}')"

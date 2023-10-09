@@ -1,4 +1,0 @@
-"做种相关信息": "Seeding information"
-":param multi_page: 是否多页数据": ":param multi_page:  Whether multiple pages of data"
-":return: 下页地址": ":return:  Next page address"
-"logger.error(f"解析做种信息失败: {e}")": "logger.error(f" Failure to parse seeding information: {e}")"
