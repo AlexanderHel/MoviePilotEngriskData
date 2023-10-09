@@ -13,7 +13,7 @@
 ":param db: 数据库": ":param db:  Comprehensive database"
 ":param _: Token校验": ":param _: Token Calibration"
 "return schemas.Response(success=False, message=f"目标路径不存在")": "return schemas.Response(success=False, message=f" Target path does not exist")"
-"# 类型": "#  Typology"
+"# 类型": "#  Type"
 "# 自定义格式": "#  Custom formatting"
 "# 开始转移": "#  Commencement of transfer"
 "# 失败": "#  Fail (e.g. experiments)"

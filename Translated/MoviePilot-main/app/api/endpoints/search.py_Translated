@@ -1,7 +1,7 @@
 "@router.get("/last", summary="查询搜索结果", response_model=List[schemas.Context])": "@router.get("/last", summary=" Query search results", response_model=List[schemas.Context])"
 "查询搜索结果": "Query search results"
 "@router.get("/media/{mediaid}", summary="精确搜索资源", response_model=List[schemas.Context])": "@router.get("/media/{mediaid}", summary=" Precise search of resources", response_model=List[schemas.Context])"
-"根据TMDBID/豆瓣ID精确搜索站点资源 tmdb:/douban:/": "According toTMDBID/ Douban, prc social networking websiteID Accurate search of site resources tmdb:/douban:/"
+"根据TMDBID/豆瓣ID精确搜索站点资源 tmdb:/douban:/": "According to TMDBID/Douban ID precise search site resources tmdb:/douban:/"
 "# 识别豆瓣信息": "#  Recognizing doujinshi information"
 "@router.get("/title", summary="模糊搜索资源", response_model=List[schemas.TorrentInfo])": "@router.get("/title", summary=" Fuzzy search resources", response_model=List[schemas.TorrentInfo])"
 "根据名称模糊搜索站点资源，支持分页，关键词为空是返回首页资源": "Fuzzy search for site resources by name， Pagination support， Empty keywords are back to homepage resources"

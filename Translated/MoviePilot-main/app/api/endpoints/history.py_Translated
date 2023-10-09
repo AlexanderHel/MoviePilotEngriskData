@@ -12,4 +12,4 @@
 "# 发送事件": "#  Send event"
 "# 删除记录": "#  Deletion of records"
 "@router.post("/transfer", summary="历史记录重新转移", response_model=schemas.Response)": "@router.post("/transfer", summary=" History re-transfer", response_model=schemas.Response)"
-"历史记录重新转移，不输入 mtype 和 new_tmdbid 时，自动使用文件名重新识别": "History re-transfer， Non-input mtype  Cap (a poem) new_tmdbid  Hour， Automatic re-recognition using file names"
+"历史记录重新转移，不输入 mtype 和 new_tmdbid 时，自动使用文件名重新识别": "History re-transfer，When not entering MTYPE and New_tmdbid， Automatic re-recognition using file names"
