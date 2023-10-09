@@ -15,7 +15,7 @@
 "# 退出事件": "#  Logout event"
 "# 待检查种子清单": "#  List of seeds to be checked"
 "# 任务标签": "#  Mission label"
-"_torrent_tags = ["已整理", "转移做种"]": "_torrent_tags = [" Collated", " Master sth."]"
+"_torrent_tags = ["已整理", "转移做种"]": "_torrent_tags = ["Sort", "Transfer"]"
 "# 读取配置": "#  Read configuration"
 "# 停止现有任务": "#  Discontinuation of existing mandates"
 "# 启动定时任务 & 立即运行一次": "#  Starting a timed task &  Run one immediately"
